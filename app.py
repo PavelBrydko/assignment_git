@@ -15,3 +15,5 @@ def calculator(num_a, num_b, operation):
         print("Invalid operation")
 
 calculator(num_a, num_b, operation)
+
+# Now it have new function 
